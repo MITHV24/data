@@ -1,0 +1,601 @@
+Regions,Multiple main languages in household (6 categories) Code,Multiple main languages in household (6 categories),Occupation (current) (10 categories) Code,Occupation (current) (10 categories),Observation
+North East,-8,Does not apply,-8,Does not apply,0
+North East,-8,Does not apply,1,"1. Managers, directors and senior officials",0
+North East,-8,Does not apply,2,2. Professional occupations,0
+North East,-8,Does not apply,3,3. Associate professional and technical occupations,0
+North East,-8,Does not apply,4,4. Administrative and secretarial occupations,0
+North East,-8,Does not apply,5,5. Skilled trades occupations,0
+North East,-8,Does not apply,6,"6. Caring, leisure and other service occupations",0
+North East,-8,Does not apply,7,7. Sales and customer service occupations,0
+North East,-8,Does not apply,8,"8. Process, plant and machine operatives",0
+North East,-8,Does not apply,9,9. Elementary occupations,0
+North East,1,One-person household,-8,Does not apply,253161
+North East,1,One-person household,1,"1. Managers, directors and senior officials",12449
+North East,1,One-person household,2,2. Professional occupations,26265
+North East,1,One-person household,3,3. Associate professional and technical occupations,17702
+North East,1,One-person household,4,4. Administrative and secretarial occupations,13806
+North East,1,One-person household,5,5. Skilled trades occupations,15839
+North East,1,One-person household,6,"6. Caring, leisure and other service occupations",14221
+North East,1,One-person household,7,7. Sales and customer service occupations,12016
+North East,1,One-person household,8,"8. Process, plant and machine operatives",13801
+North East,1,One-person household,9,9. Elementary occupations,16662
+North East,2,All household members have the same main language,-8,Does not apply,253027
+North East,2,All household members have the same main language,1,"1. Managers, directors and senior officials",61646
+North East,2,All household members have the same main language,2,2. Professional occupations,91646
+North East,2,All household members have the same main language,3,3. Associate professional and technical occupations,60011
+North East,2,All household members have the same main language,4,4. Administrative and secretarial occupations,40068
+North East,2,All household members have the same main language,5,5. Skilled trades occupations,64316
+North East,2,All household members have the same main language,6,"6. Caring, leisure and other service occupations",47465
+North East,2,All household members have the same main language,7,7. Sales and customer service occupations,36160
+North East,2,All household members have the same main language,8,"8. Process, plant and machine operatives",51342
+North East,2,All household members have the same main language,9,9. Elementary occupations,48993
+North East,3,"Main language differs between generations, but not within partnerships",-8,Does not apply,2389
+North East,3,"Main language differs between generations, but not within partnerships",1,"1. Managers, directors and senior officials",456
+North East,3,"Main language differs between generations, but not within partnerships",2,2. Professional occupations,1136
+North East,3,"Main language differs between generations, but not within partnerships",3,3. Associate professional and technical occupations,261
+North East,3,"Main language differs between generations, but not within partnerships",4,4. Administrative and secretarial occupations,166
+North East,3,"Main language differs between generations, but not within partnerships",5,5. Skilled trades occupations,910
+North East,3,"Main language differs between generations, but not within partnerships",6,"6. Caring, leisure and other service occupations",485
+North East,3,"Main language differs between generations, but not within partnerships",7,7. Sales and customer service occupations,375
+North East,3,"Main language differs between generations, but not within partnerships",8,"8. Process, plant and machine operatives",947
+North East,3,"Main language differs between generations, but not within partnerships",9,9. Elementary occupations,943
+North East,4,Main language differs within partnerships,-8,Does not apply,1568
+North East,4,Main language differs within partnerships,1,"1. Managers, directors and senior officials",1094
+North East,4,Main language differs within partnerships,2,2. Professional occupations,2176
+North East,4,Main language differs within partnerships,3,3. Associate professional and technical occupations,828
+North East,4,Main language differs within partnerships,4,4. Administrative and secretarial occupations,446
+North East,4,Main language differs within partnerships,5,5. Skilled trades occupations,1050
+North East,4,Main language differs within partnerships,6,"6. Caring, leisure and other service occupations",529
+North East,4,Main language differs within partnerships,7,7. Sales and customer service occupations,625
+North East,4,Main language differs within partnerships,8,"8. Process, plant and machine operatives",1127
+North East,4,Main language differs within partnerships,9,9. Elementary occupations,885
+North East,5,Any other combination of multiple main languages,-8,Does not apply,1605
+North East,5,Any other combination of multiple main languages,1,"1. Managers, directors and senior officials",511
+North East,5,Any other combination of multiple main languages,2,2. Professional occupations,913
+North East,5,Any other combination of multiple main languages,3,3. Associate professional and technical occupations,367
+North East,5,Any other combination of multiple main languages,4,4. Administrative and secretarial occupations,241
+North East,5,Any other combination of multiple main languages,5,5. Skilled trades occupations,586
+North East,5,Any other combination of multiple main languages,6,"6. Caring, leisure and other service occupations",490
+North East,5,Any other combination of multiple main languages,7,7. Sales and customer service occupations,476
+North East,5,Any other combination of multiple main languages,8,"8. Process, plant and machine operatives",712
+North East,5,Any other combination of multiple main languages,9,9. Elementary occupations,784
+North West,-8,Does not apply,-8,Does not apply,0
+North West,-8,Does not apply,1,"1. Managers, directors and senior officials",0
+North West,-8,Does not apply,2,2. Professional occupations,0
+North West,-8,Does not apply,3,3. Associate professional and technical occupations,0
+North West,-8,Does not apply,4,4. Administrative and secretarial occupations,0
+North West,-8,Does not apply,5,5. Skilled trades occupations,0
+North West,-8,Does not apply,6,"6. Caring, leisure and other service occupations",0
+North West,-8,Does not apply,7,7. Sales and customer service occupations,0
+North West,-8,Does not apply,8,"8. Process, plant and machine operatives",0
+North West,-8,Does not apply,9,9. Elementary occupations,0
+North West,1,One-person household,-8,Does not apply,621773
+North West,1,One-person household,1,"1. Managers, directors and senior officials",41755
+North West,1,One-person household,2,2. Professional occupations,78398
+North West,1,One-person household,3,3. Associate professional and technical occupations,50634
+North West,1,One-person household,4,4. Administrative and secretarial occupations,36654
+North West,1,One-person household,5,5. Skilled trades occupations,41191
+North West,1,One-person household,6,"6. Caring, leisure and other service occupations",36177
+North West,1,One-person household,7,7. Sales and customer service occupations,28759
+North West,1,One-person household,8,"8. Process, plant and machine operatives",35070
+North West,1,One-person household,9,9. Elementary occupations,44499
+North West,2,All household members have the same main language,-8,Does not apply,608011
+North West,2,All household members have the same main language,1,"1. Managers, directors and senior officials",203954
+North West,2,All household members have the same main language,2,2. Professional occupations,276276
+North West,2,All household members have the same main language,3,3. Associate professional and technical occupations,173114
+North West,2,All household members have the same main language,4,4. Administrative and secretarial occupations,112295
+North West,2,All household members have the same main language,5,5. Skilled trades occupations,166449
+North West,2,All household members have the same main language,6,"6. Caring, leisure and other service occupations",123496
+North West,2,All household members have the same main language,7,7. Sales and customer service occupations,86171
+North West,2,All household members have the same main language,8,"8. Process, plant and machine operatives",126940
+North West,2,All household members have the same main language,9,9. Elementary occupations,127108
+North West,3,"Main language differs between generations, but not within partnerships",-8,Does not apply,13233
+North West,3,"Main language differs between generations, but not within partnerships",1,"1. Managers, directors and senior officials",2489
+North West,3,"Main language differs between generations, but not within partnerships",2,2. Professional occupations,4405
+North West,3,"Main language differs between generations, but not within partnerships",3,3. Associate professional and technical occupations,1414
+North West,3,"Main language differs between generations, but not within partnerships",4,4. Administrative and secretarial occupations,1157
+North West,3,"Main language differs between generations, but not within partnerships",5,5. Skilled trades occupations,4544
+North West,3,"Main language differs between generations, but not within partnerships",6,"6. Caring, leisure and other service occupations",2782
+North West,3,"Main language differs between generations, but not within partnerships",7,7. Sales and customer service occupations,2365
+North West,3,"Main language differs between generations, but not within partnerships",8,"8. Process, plant and machine operatives",5853
+North West,3,"Main language differs between generations, but not within partnerships",9,9. Elementary occupations,5843
+North West,4,Main language differs within partnerships,-8,Does not apply,7640
+North West,4,Main language differs within partnerships,1,"1. Managers, directors and senior officials",5467
+North West,4,Main language differs within partnerships,2,2. Professional occupations,8974
+North West,4,Main language differs within partnerships,3,3. Associate professional and technical occupations,4294
+North West,4,Main language differs within partnerships,4,4. Administrative and secretarial occupations,2501
+North West,4,Main language differs within partnerships,5,5. Skilled trades occupations,4756
+North West,4,Main language differs within partnerships,6,"6. Caring, leisure and other service occupations",2745
+North West,4,Main language differs within partnerships,7,7. Sales and customer service occupations,3343
+North West,4,Main language differs within partnerships,8,"8. Process, plant and machine operatives",7037
+North West,4,Main language differs within partnerships,9,9. Elementary occupations,5657
+North West,5,Any other combination of multiple main languages,-8,Does not apply,7197
+North West,5,Any other combination of multiple main languages,1,"1. Managers, directors and senior officials",3153
+North West,5,Any other combination of multiple main languages,2,2. Professional occupations,4757
+North West,5,Any other combination of multiple main languages,3,3. Associate professional and technical occupations,2384
+North West,5,Any other combination of multiple main languages,4,4. Administrative and secretarial occupations,1664
+North West,5,Any other combination of multiple main languages,5,5. Skilled trades occupations,3150
+North West,5,Any other combination of multiple main languages,6,"6. Caring, leisure and other service occupations",2567
+North West,5,Any other combination of multiple main languages,7,7. Sales and customer service occupations,2773
+North West,5,Any other combination of multiple main languages,8,"8. Process, plant and machine operatives",5002
+North West,5,Any other combination of multiple main languages,9,9. Elementary occupations,5531
+Yorkshire and The Humber,-8,Does not apply,-8,Does not apply,0
+Yorkshire and The Humber,-8,Does not apply,1,"1. Managers, directors and senior officials",0
+Yorkshire and The Humber,-8,Does not apply,2,2. Professional occupations,0
+Yorkshire and The Humber,-8,Does not apply,3,3. Associate professional and technical occupations,0
+Yorkshire and The Humber,-8,Does not apply,4,4. Administrative and secretarial occupations,0
+Yorkshire and The Humber,-8,Does not apply,5,5. Skilled trades occupations,0
+Yorkshire and The Humber,-8,Does not apply,6,"6. Caring, leisure and other service occupations",0
+Yorkshire and The Humber,-8,Does not apply,7,7. Sales and customer service occupations,0
+Yorkshire and The Humber,-8,Does not apply,8,"8. Process, plant and machine operatives",0
+Yorkshire and The Humber,-8,Does not apply,9,9. Elementary occupations,0
+Yorkshire and The Humber,1,One-person household,-8,Does not apply,445573
+Yorkshire and The Humber,1,One-person household,1,"1. Managers, directors and senior officials",29485
+Yorkshire and The Humber,1,One-person household,2,2. Professional occupations,54687
+Yorkshire and The Humber,1,One-person household,3,3. Associate professional and technical occupations,36694
+Yorkshire and The Humber,1,One-person household,4,4. Administrative and secretarial occupations,25261
+Yorkshire and The Humber,1,One-person household,5,5. Skilled trades occupations,33436
+Yorkshire and The Humber,1,One-person household,6,"6. Caring, leisure and other service occupations",25421
+Yorkshire and The Humber,1,One-person household,7,7. Sales and customer service occupations,20910
+Yorkshire and The Humber,1,One-person household,8,"8. Process, plant and machine operatives",27025
+Yorkshire and The Humber,1,One-person household,9,9. Elementary occupations,35066
+Yorkshire and The Humber,2,All household members have the same main language,-8,Does not apply,451964
+Yorkshire and The Humber,2,All household members have the same main language,1,"1. Managers, directors and senior officials",150545
+Yorkshire and The Humber,2,All household members have the same main language,2,2. Professional occupations,193646
+Yorkshire and The Humber,2,All household members have the same main language,3,3. Associate professional and technical occupations,124278
+Yorkshire and The Humber,2,All household members have the same main language,4,4. Administrative and secretarial occupations,75294
+Yorkshire and The Humber,2,All household members have the same main language,5,5. Skilled trades occupations,142300
+Yorkshire and The Humber,2,All household members have the same main language,6,"6. Caring, leisure and other service occupations",84999
+Yorkshire and The Humber,2,All household members have the same main language,7,7. Sales and customer service occupations,63448
+Yorkshire and The Humber,2,All household members have the same main language,8,"8. Process, plant and machine operatives",105098
+Yorkshire and The Humber,2,All household members have the same main language,9,9. Elementary occupations,102892
+Yorkshire and The Humber,3,"Main language differs between generations, but not within partnerships",-8,Does not apply,10583
+Yorkshire and The Humber,3,"Main language differs between generations, but not within partnerships",1,"1. Managers, directors and senior officials",1449
+Yorkshire and The Humber,3,"Main language differs between generations, but not within partnerships",2,2. Professional occupations,3017
+Yorkshire and The Humber,3,"Main language differs between generations, but not within partnerships",3,3. Associate professional and technical occupations,1072
+Yorkshire and The Humber,3,"Main language differs between generations, but not within partnerships",4,4. Administrative and secretarial occupations,737
+Yorkshire and The Humber,3,"Main language differs between generations, but not within partnerships",5,5. Skilled trades occupations,3086
+Yorkshire and The Humber,3,"Main language differs between generations, but not within partnerships",6,"6. Caring, leisure and other service occupations",1892
+Yorkshire and The Humber,3,"Main language differs between generations, but not within partnerships",7,7. Sales and customer service occupations,1353
+Yorkshire and The Humber,3,"Main language differs between generations, but not within partnerships",8,"8. Process, plant and machine operatives",4547
+Yorkshire and The Humber,3,"Main language differs between generations, but not within partnerships",9,9. Elementary occupations,4781
+Yorkshire and The Humber,4,Main language differs within partnerships,-8,Does not apply,6181
+Yorkshire and The Humber,4,Main language differs within partnerships,1,"1. Managers, directors and senior officials",3684
+Yorkshire and The Humber,4,Main language differs within partnerships,2,2. Professional occupations,6032
+Yorkshire and The Humber,4,Main language differs within partnerships,3,3. Associate professional and technical occupations,3010
+Yorkshire and The Humber,4,Main language differs within partnerships,4,4. Administrative and secretarial occupations,1626
+Yorkshire and The Humber,4,Main language differs within partnerships,5,5. Skilled trades occupations,4133
+Yorkshire and The Humber,4,Main language differs within partnerships,6,"6. Caring, leisure and other service occupations",2138
+Yorkshire and The Humber,4,Main language differs within partnerships,7,7. Sales and customer service occupations,2497
+Yorkshire and The Humber,4,Main language differs within partnerships,8,"8. Process, plant and machine operatives",6682
+Yorkshire and The Humber,4,Main language differs within partnerships,9,9. Elementary occupations,4887
+Yorkshire and The Humber,5,Any other combination of multiple main languages,-8,Does not apply,5542
+Yorkshire and The Humber,5,Any other combination of multiple main languages,1,"1. Managers, directors and senior officials",2048
+Yorkshire and The Humber,5,Any other combination of multiple main languages,2,2. Professional occupations,3288
+Yorkshire and The Humber,5,Any other combination of multiple main languages,3,3. Associate professional and technical occupations,1744
+Yorkshire and The Humber,5,Any other combination of multiple main languages,4,4. Administrative and secretarial occupations,1201
+Yorkshire and The Humber,5,Any other combination of multiple main languages,5,5. Skilled trades occupations,2486
+Yorkshire and The Humber,5,Any other combination of multiple main languages,6,"6. Caring, leisure and other service occupations",1864
+Yorkshire and The Humber,5,Any other combination of multiple main languages,7,7. Sales and customer service occupations,2020
+Yorkshire and The Humber,5,Any other combination of multiple main languages,8,"8. Process, plant and machine operatives",4795
+Yorkshire and The Humber,5,Any other combination of multiple main languages,9,9. Elementary occupations,4265
+East Midlands,-8,Does not apply,-8,Does not apply,0
+East Midlands,-8,Does not apply,1,"1. Managers, directors and senior officials",0
+East Midlands,-8,Does not apply,2,2. Professional occupations,0
+East Midlands,-8,Does not apply,3,3. Associate professional and technical occupations,0
+East Midlands,-8,Does not apply,4,4. Administrative and secretarial occupations,0
+East Midlands,-8,Does not apply,5,5. Skilled trades occupations,0
+East Midlands,-8,Does not apply,6,"6. Caring, leisure and other service occupations",0
+East Midlands,-8,Does not apply,7,7. Sales and customer service occupations,0
+East Midlands,-8,Does not apply,8,"8. Process, plant and machine operatives",0
+East Midlands,-8,Does not apply,9,9. Elementary occupations,0
+East Midlands,1,One-person household,-8,Does not apply,357390
+East Midlands,1,One-person household,1,"1. Managers, directors and senior officials",26681
+East Midlands,1,One-person household,2,2. Professional occupations,46052
+East Midlands,1,One-person household,3,3. Associate professional and technical occupations,30062
+East Midlands,1,One-person household,4,4. Administrative and secretarial occupations,21196
+East Midlands,1,One-person household,5,5. Skilled trades occupations,27893
+East Midlands,1,One-person household,6,"6. Caring, leisure and other service occupations",20627
+East Midlands,1,One-person household,7,7. Sales and customer service occupations,16181
+East Midlands,1,One-person household,8,"8. Process, plant and machine operatives",22832
+East Midlands,1,One-person household,9,9. Elementary occupations,28263
+East Midlands,2,All household members have the same main language,-8,Does not apply,393939
+East Midlands,2,All household members have the same main language,1,"1. Managers, directors and senior officials",149666
+East Midlands,2,All household members have the same main language,2,2. Professional occupations,173030
+East Midlands,2,All household members have the same main language,3,3. Associate professional and technical occupations,112403
+East Midlands,2,All household members have the same main language,4,4. Administrative and secretarial occupations,67869
+East Midlands,2,All household members have the same main language,5,5. Skilled trades occupations,129058
+East Midlands,2,All household members have the same main language,6,"6. Caring, leisure and other service occupations",73388
+East Midlands,2,All household members have the same main language,7,7. Sales and customer service occupations,52647
+East Midlands,2,All household members have the same main language,8,"8. Process, plant and machine operatives",97845
+East Midlands,2,All household members have the same main language,9,9. Elementary occupations,96470
+East Midlands,3,"Main language differs between generations, but not within partnerships",-8,Does not apply,6926
+East Midlands,3,"Main language differs between generations, but not within partnerships",1,"1. Managers, directors and senior officials",1852
+East Midlands,3,"Main language differs between generations, but not within partnerships",2,2. Professional occupations,3167
+East Midlands,3,"Main language differs between generations, but not within partnerships",3,3. Associate professional and technical occupations,1130
+East Midlands,3,"Main language differs between generations, but not within partnerships",4,4. Administrative and secretarial occupations,1011
+East Midlands,3,"Main language differs between generations, but not within partnerships",5,5. Skilled trades occupations,2965
+East Midlands,3,"Main language differs between generations, but not within partnerships",6,"6. Caring, leisure and other service occupations",2082
+East Midlands,3,"Main language differs between generations, but not within partnerships",7,7. Sales and customer service occupations,1521
+East Midlands,3,"Main language differs between generations, but not within partnerships",8,"8. Process, plant and machine operatives",6003
+East Midlands,3,"Main language differs between generations, but not within partnerships",9,9. Elementary occupations,5410
+East Midlands,4,Main language differs within partnerships,-8,Does not apply,3992
+East Midlands,4,Main language differs within partnerships,1,"1. Managers, directors and senior officials",3847
+East Midlands,4,Main language differs within partnerships,2,2. Professional occupations,5370
+East Midlands,4,Main language differs within partnerships,3,3. Associate professional and technical occupations,2668
+East Midlands,4,Main language differs within partnerships,4,4. Administrative and secretarial occupations,1494
+East Midlands,4,Main language differs within partnerships,5,5. Skilled trades occupations,3072
+East Midlands,4,Main language differs within partnerships,6,"6. Caring, leisure and other service occupations",1721
+East Midlands,4,Main language differs within partnerships,7,7. Sales and customer service occupations,1628
+East Midlands,4,Main language differs within partnerships,8,"8. Process, plant and machine operatives",4908
+East Midlands,4,Main language differs within partnerships,9,9. Elementary occupations,4419
+East Midlands,5,Any other combination of multiple main languages,-8,Does not apply,3959
+East Midlands,5,Any other combination of multiple main languages,1,"1. Managers, directors and senior officials",2310
+East Midlands,5,Any other combination of multiple main languages,2,2. Professional occupations,3222
+East Midlands,5,Any other combination of multiple main languages,3,3. Associate professional and technical occupations,1590
+East Midlands,5,Any other combination of multiple main languages,4,4. Administrative and secretarial occupations,1242
+East Midlands,5,Any other combination of multiple main languages,5,5. Skilled trades occupations,2338
+East Midlands,5,Any other combination of multiple main languages,6,"6. Caring, leisure and other service occupations",1715
+East Midlands,5,Any other combination of multiple main languages,7,7. Sales and customer service occupations,1631
+East Midlands,5,Any other combination of multiple main languages,8,"8. Process, plant and machine operatives",5002
+East Midlands,5,Any other combination of multiple main languages,9,9. Elementary occupations,5644
+West Midlands,-8,Does not apply,-8,Does not apply,0
+West Midlands,-8,Does not apply,1,"1. Managers, directors and senior officials",0
+West Midlands,-8,Does not apply,2,2. Professional occupations,0
+West Midlands,-8,Does not apply,3,3. Associate professional and technical occupations,0
+West Midlands,-8,Does not apply,4,4. Administrative and secretarial occupations,0
+West Midlands,-8,Does not apply,5,5. Skilled trades occupations,0
+West Midlands,-8,Does not apply,6,"6. Caring, leisure and other service occupations",0
+West Midlands,-8,Does not apply,7,7. Sales and customer service occupations,0
+West Midlands,-8,Does not apply,8,"8. Process, plant and machine operatives",0
+West Midlands,-8,Does not apply,9,9. Elementary occupations,0
+West Midlands,1,One-person household,-8,Does not apply,445878
+West Midlands,1,One-person household,1,"1. Managers, directors and senior officials",30402
+West Midlands,1,One-person household,2,2. Professional occupations,55173
+West Midlands,1,One-person household,3,3. Associate professional and technical occupations,34389
+West Midlands,1,One-person household,4,4. Administrative and secretarial occupations,25397
+West Midlands,1,One-person household,5,5. Skilled trades occupations,32325
+West Midlands,1,One-person household,6,"6. Caring, leisure and other service occupations",24295
+West Midlands,1,One-person household,7,7. Sales and customer service occupations,18465
+West Midlands,1,One-person household,8,"8. Process, plant and machine operatives",26312
+West Midlands,1,One-person household,9,9. Elementary occupations,33171
+West Midlands,2,All household members have the same main language,-8,Does not apply,476290
+West Midlands,2,All household members have the same main language,1,"1. Managers, directors and senior officials",162126
+West Midlands,2,All household members have the same main language,2,2. Professional occupations,204682
+West Midlands,2,All household members have the same main language,3,3. Associate professional and technical occupations,124716
+West Midlands,2,All household members have the same main language,4,4. Administrative and secretarial occupations,80493
+West Midlands,2,All household members have the same main language,5,5. Skilled trades occupations,144787
+West Midlands,2,All household members have the same main language,6,"6. Caring, leisure and other service occupations",86987
+West Midlands,2,All household members have the same main language,7,7. Sales and customer service occupations,59758
+West Midlands,2,All household members have the same main language,8,"8. Process, plant and machine operatives",107332
+West Midlands,2,All household members have the same main language,9,9. Elementary occupations,107974
+West Midlands,3,"Main language differs between generations, but not within partnerships",-8,Does not apply,16648
+West Midlands,3,"Main language differs between generations, but not within partnerships",1,"1. Managers, directors and senior officials",2533
+West Midlands,3,"Main language differs between generations, but not within partnerships",2,2. Professional occupations,4470
+West Midlands,3,"Main language differs between generations, but not within partnerships",3,3. Associate professional and technical occupations,1517
+West Midlands,3,"Main language differs between generations, but not within partnerships",4,4. Administrative and secretarial occupations,1221
+West Midlands,3,"Main language differs between generations, but not within partnerships",5,5. Skilled trades occupations,4330
+West Midlands,3,"Main language differs between generations, but not within partnerships",6,"6. Caring, leisure and other service occupations",3055
+West Midlands,3,"Main language differs between generations, but not within partnerships",7,7. Sales and customer service occupations,2128
+West Midlands,3,"Main language differs between generations, but not within partnerships",8,"8. Process, plant and machine operatives",7232
+West Midlands,3,"Main language differs between generations, but not within partnerships",9,9. Elementary occupations,7385
+West Midlands,4,Main language differs within partnerships,-8,Does not apply,8287
+West Midlands,4,Main language differs within partnerships,1,"1. Managers, directors and senior officials",5083
+West Midlands,4,Main language differs within partnerships,2,2. Professional occupations,7386
+West Midlands,4,Main language differs within partnerships,3,3. Associate professional and technical occupations,3510
+West Midlands,4,Main language differs within partnerships,4,4. Administrative and secretarial occupations,2029
+West Midlands,4,Main language differs within partnerships,5,5. Skilled trades occupations,4834
+West Midlands,4,Main language differs within partnerships,6,"6. Caring, leisure and other service occupations",2652
+West Midlands,4,Main language differs within partnerships,7,7. Sales and customer service occupations,2719
+West Midlands,4,Main language differs within partnerships,8,"8. Process, plant and machine operatives",8535
+West Midlands,4,Main language differs within partnerships,9,9. Elementary occupations,6780
+West Midlands,5,Any other combination of multiple main languages,-8,Does not apply,8376
+West Midlands,5,Any other combination of multiple main languages,1,"1. Managers, directors and senior officials",3876
+West Midlands,5,Any other combination of multiple main languages,2,2. Professional occupations,5411
+West Midlands,5,Any other combination of multiple main languages,3,3. Associate professional and technical occupations,2688
+West Midlands,5,Any other combination of multiple main languages,4,4. Administrative and secretarial occupations,2041
+West Midlands,5,Any other combination of multiple main languages,5,5. Skilled trades occupations,3601
+West Midlands,5,Any other combination of multiple main languages,6,"6. Caring, leisure and other service occupations",2939
+West Midlands,5,Any other combination of multiple main languages,7,7. Sales and customer service occupations,2689
+West Midlands,5,Any other combination of multiple main languages,8,"8. Process, plant and machine operatives",7106
+West Midlands,5,Any other combination of multiple main languages,9,9. Elementary occupations,7485
+East of England,-8,Does not apply,-8,Does not apply,0
+East of England,-8,Does not apply,1,"1. Managers, directors and senior officials",0
+East of England,-8,Does not apply,2,2. Professional occupations,0
+East of England,-8,Does not apply,3,3. Associate professional and technical occupations,0
+East of England,-8,Does not apply,4,4. Administrative and secretarial occupations,0
+East of England,-8,Does not apply,5,5. Skilled trades occupations,0
+East of England,-8,Does not apply,6,"6. Caring, leisure and other service occupations",0
+East of England,-8,Does not apply,7,7. Sales and customer service occupations,0
+East of England,-8,Does not apply,8,"8. Process, plant and machine operatives",0
+East of England,-8,Does not apply,9,9. Elementary occupations,0
+East of England,1,One-person household,-8,Does not apply,452532
+East of England,1,One-person household,1,"1. Managers, directors and senior officials",39580
+East of England,1,One-person household,2,2. Professional occupations,66173
+East of England,1,One-person household,3,3. Associate professional and technical occupations,42744
+East of England,1,One-person household,4,4. Administrative and secretarial occupations,29931
+East of England,1,One-person household,5,5. Skilled trades occupations,34224
+East of England,1,One-person household,6,"6. Caring, leisure and other service occupations",24059
+East of England,1,One-person household,7,7. Sales and customer service occupations,18661
+East of England,1,One-person household,8,"8. Process, plant and machine operatives",23932
+East of England,1,One-person household,9,9. Elementary occupations,27972
+East of England,2,All household members have the same main language,-8,Does not apply,485313
+East of England,2,All household members have the same main language,1,"1. Managers, directors and senior officials",226403
+East of England,2,All household members have the same main language,2,2. Professional occupations,254935
+East of England,2,All household members have the same main language,3,3. Associate professional and technical occupations,162027
+East of England,2,All household members have the same main language,4,4. Administrative and secretarial occupations,94856
+East of England,2,All household members have the same main language,5,5. Skilled trades occupations,166946
+East of England,2,All household members have the same main language,6,"6. Caring, leisure and other service occupations",88194
+East of England,2,All household members have the same main language,7,7. Sales and customer service occupations,60026
+East of England,2,All household members have the same main language,8,"8. Process, plant and machine operatives",102255
+East of England,2,All household members have the same main language,9,9. Elementary occupations,96730
+East of England,3,"Main language differs between generations, but not within partnerships",-8,Does not apply,7103
+East of England,3,"Main language differs between generations, but not within partnerships",1,"1. Managers, directors and senior officials",3707
+East of England,3,"Main language differs between generations, but not within partnerships",2,2. Professional occupations,6023
+East of England,3,"Main language differs between generations, but not within partnerships",3,3. Associate professional and technical occupations,1940
+East of England,3,"Main language differs between generations, but not within partnerships",4,4. Administrative and secretarial occupations,1389
+East of England,3,"Main language differs between generations, but not within partnerships",5,5. Skilled trades occupations,4584
+East of England,3,"Main language differs between generations, but not within partnerships",6,"6. Caring, leisure and other service occupations",2917
+East of England,3,"Main language differs between generations, but not within partnerships",7,7. Sales and customer service occupations,1835
+East of England,3,"Main language differs between generations, but not within partnerships",8,"8. Process, plant and machine operatives",5450
+East of England,3,"Main language differs between generations, but not within partnerships",9,9. Elementary occupations,5486
+East of England,4,Main language differs within partnerships,-8,Does not apply,5232
+East of England,4,Main language differs within partnerships,1,"1. Managers, directors and senior officials",7458
+East of England,4,Main language differs within partnerships,2,2. Professional occupations,11565
+East of England,4,Main language differs within partnerships,3,3. Associate professional and technical occupations,5152
+East of England,4,Main language differs within partnerships,4,4. Administrative and secretarial occupations,2267
+East of England,4,Main language differs within partnerships,5,5. Skilled trades occupations,4925
+East of England,4,Main language differs within partnerships,6,"6. Caring, leisure and other service occupations",2808
+East of England,4,Main language differs within partnerships,7,7. Sales and customer service occupations,1952
+East of England,4,Main language differs within partnerships,8,"8. Process, plant and machine operatives",5717
+East of England,4,Main language differs within partnerships,9,9. Elementary occupations,4779
+East of England,5,Any other combination of multiple main languages,-8,Does not apply,4329
+East of England,5,Any other combination of multiple main languages,1,"1. Managers, directors and senior officials",4090
+East of England,5,Any other combination of multiple main languages,2,2. Professional occupations,6177
+East of England,5,Any other combination of multiple main languages,3,3. Associate professional and technical occupations,2740
+East of England,5,Any other combination of multiple main languages,4,4. Administrative and secretarial occupations,1615
+East of England,5,Any other combination of multiple main languages,5,5. Skilled trades occupations,3906
+East of England,5,Any other combination of multiple main languages,6,"6. Caring, leisure and other service occupations",3102
+East of England,5,Any other combination of multiple main languages,7,7. Sales and customer service occupations,2023
+East of England,5,Any other combination of multiple main languages,8,"8. Process, plant and machine operatives",5098
+East of England,5,Any other combination of multiple main languages,9,9. Elementary occupations,5917
+London,-8,Does not apply,-8,Does not apply,0
+London,-8,Does not apply,1,"1. Managers, directors and senior officials",0
+London,-8,Does not apply,2,2. Professional occupations,0
+London,-8,Does not apply,3,3. Associate professional and technical occupations,0
+London,-8,Does not apply,4,4. Administrative and secretarial occupations,0
+London,-8,Does not apply,5,5. Skilled trades occupations,0
+London,-8,Does not apply,6,"6. Caring, leisure and other service occupations",0
+London,-8,Does not apply,7,7. Sales and customer service occupations,0
+London,-8,Does not apply,8,"8. Process, plant and machine operatives",0
+London,-8,Does not apply,9,9. Elementary occupations,0
+London,1,One-person household,-8,Does not apply,508930
+London,1,One-person household,1,"1. Managers, directors and senior officials",82506
+London,1,One-person household,2,2. Professional occupations,150764
+London,1,One-person household,3,3. Associate professional and technical occupations,83462
+London,1,One-person household,4,4. Administrative and secretarial occupations,42170
+London,1,One-person household,5,5. Skilled trades occupations,28695
+London,1,One-person household,6,"6. Caring, leisure and other service occupations",31115
+London,1,One-person household,7,7. Sales and customer service occupations,21334
+London,1,One-person household,8,"8. Process, plant and machine operatives",20716
+London,1,One-person household,9,9. Elementary occupations,32291
+London,2,All household members have the same main language,-8,Does not apply,441636
+London,2,All household members have the same main language,1,"1. Managers, directors and senior officials",263280
+London,2,All household members have the same main language,2,2. Professional occupations,392642
+London,2,All household members have the same main language,3,3. Associate professional and technical occupations,212796
+London,2,All household members have the same main language,4,4. Administrative and secretarial occupations,108755
+London,2,All household members have the same main language,5,5. Skilled trades occupations,113028
+London,2,All household members have the same main language,6,"6. Caring, leisure and other service occupations",103104
+London,2,All household members have the same main language,7,7. Sales and customer service occupations,65060
+London,2,All household members have the same main language,8,"8. Process, plant and machine operatives",76530
+London,2,All household members have the same main language,9,9. Elementary occupations,103501
+London,3,"Main language differs between generations, but not within partnerships",-8,Does not apply,58260
+London,3,"Main language differs between generations, but not within partnerships",1,"1. Managers, directors and senior officials",14963
+London,3,"Main language differs between generations, but not within partnerships",2,2. Professional occupations,16503
+London,3,"Main language differs between generations, but not within partnerships",3,3. Associate professional and technical occupations,7731
+London,3,"Main language differs between generations, but not within partnerships",4,4. Administrative and secretarial occupations,6159
+London,3,"Main language differs between generations, but not within partnerships",5,5. Skilled trades occupations,17749
+London,3,"Main language differs between generations, but not within partnerships",6,"6. Caring, leisure and other service occupations",14775
+London,3,"Main language differs between generations, but not within partnerships",7,7. Sales and customer service occupations,11586
+London,3,"Main language differs between generations, but not within partnerships",8,"8. Process, plant and machine operatives",17434
+London,3,"Main language differs between generations, but not within partnerships",9,9. Elementary occupations,23237
+London,4,Main language differs within partnerships,-8,Does not apply,20559
+London,4,Main language differs within partnerships,1,"1. Managers, directors and senior officials",28303
+London,4,Main language differs within partnerships,2,2. Professional occupations,38646
+London,4,Main language differs within partnerships,3,3. Associate professional and technical occupations,19050
+London,4,Main language differs within partnerships,4,4. Administrative and secretarial occupations,7832
+London,4,Main language differs within partnerships,5,5. Skilled trades occupations,13466
+London,4,Main language differs within partnerships,6,"6. Caring, leisure and other service occupations",7558
+London,4,Main language differs within partnerships,7,7. Sales and customer service occupations,7261
+London,4,Main language differs within partnerships,8,"8. Process, plant and machine operatives",11687
+London,4,Main language differs within partnerships,9,9. Elementary occupations,11324
+London,5,Any other combination of multiple main languages,-8,Does not apply,25759
+London,5,Any other combination of multiple main languages,1,"1. Managers, directors and senior officials",21657
+London,5,Any other combination of multiple main languages,2,2. Professional occupations,31096
+London,5,Any other combination of multiple main languages,3,3. Associate professional and technical occupations,18046
+London,5,Any other combination of multiple main languages,4,4. Administrative and secretarial occupations,9694
+London,5,Any other combination of multiple main languages,5,5. Skilled trades occupations,20091
+London,5,Any other combination of multiple main languages,6,"6. Caring, leisure and other service occupations",13143
+London,5,Any other combination of multiple main languages,7,7. Sales and customer service occupations,10684
+London,5,Any other combination of multiple main languages,8,"8. Process, plant and machine operatives",14901
+London,5,Any other combination of multiple main languages,9,9. Elementary occupations,22425
+South East,-8,Does not apply,-8,Does not apply,0
+South East,-8,Does not apply,1,"1. Managers, directors and senior officials",0
+South East,-8,Does not apply,2,2. Professional occupations,0
+South East,-8,Does not apply,3,3. Associate professional and technical occupations,0
+South East,-8,Does not apply,4,4. Administrative and secretarial occupations,0
+South East,-8,Does not apply,5,5. Skilled trades occupations,0
+South East,-8,Does not apply,6,"6. Caring, leisure and other service occupations",0
+South East,-8,Does not apply,7,7. Sales and customer service occupations,0
+South East,-8,Does not apply,8,"8. Process, plant and machine operatives",0
+South East,-8,Does not apply,9,9. Elementary occupations,0
+South East,1,One-person household,-8,Does not apply,640540
+South East,1,One-person household,1,"1. Managers, directors and senior officials",61750
+South East,1,One-person household,2,2. Professional occupations,103708
+South East,1,One-person household,3,3. Associate professional and technical occupations,65686
+South East,1,One-person household,4,4. Administrative and secretarial occupations,42492
+South East,1,One-person household,5,5. Skilled trades occupations,45612
+South East,1,One-person household,6,"6. Caring, leisure and other service occupations",35149
+South East,1,One-person household,7,7. Sales and customer service occupations,25573
+South East,1,One-person household,8,"8. Process, plant and machine operatives",26764
+South East,1,One-person household,9,9. Elementary occupations,34465
+South East,2,All household members have the same main language,-8,Does not apply,682216
+South East,2,All household members have the same main language,1,"1. Managers, directors and senior officials",361557
+South East,2,All household members have the same main language,2,2. Professional occupations,410408
+South East,2,All household members have the same main language,3,3. Associate professional and technical occupations,256786
+South East,2,All household members have the same main language,4,4. Administrative and secretarial occupations,134947
+South East,2,All household members have the same main language,5,5. Skilled trades occupations,225604
+South East,2,All household members have the same main language,6,"6. Caring, leisure and other service occupations",129240
+South East,2,All household members have the same main language,7,7. Sales and customer service occupations,84558
+South East,2,All household members have the same main language,8,"8. Process, plant and machine operatives",119619
+South East,2,All household members have the same main language,9,9. Elementary occupations,124076
+South East,3,"Main language differs between generations, but not within partnerships",-8,Does not apply,9237
+South East,3,"Main language differs between generations, but not within partnerships",1,"1. Managers, directors and senior officials",5762
+South East,3,"Main language differs between generations, but not within partnerships",2,2. Professional occupations,9871
+South East,3,"Main language differs between generations, but not within partnerships",3,3. Associate professional and technical occupations,3335
+South East,3,"Main language differs between generations, but not within partnerships",4,4. Administrative and secretarial occupations,1801
+South East,3,"Main language differs between generations, but not within partnerships",5,5. Skilled trades occupations,5575
+South East,3,"Main language differs between generations, but not within partnerships",6,"6. Caring, leisure and other service occupations",4327
+South East,3,"Main language differs between generations, but not within partnerships",7,7. Sales and customer service occupations,2500
+South East,3,"Main language differs between generations, but not within partnerships",8,"8. Process, plant and machine operatives",6555
+South East,3,"Main language differs between generations, but not within partnerships",9,9. Elementary occupations,6875
+South East,4,Main language differs within partnerships,-8,Does not apply,8412
+South East,4,Main language differs within partnerships,1,"1. Managers, directors and senior officials",13347
+South East,4,Main language differs within partnerships,2,2. Professional occupations,19835
+South East,4,Main language differs within partnerships,3,3. Associate professional and technical occupations,9272
+South East,4,Main language differs within partnerships,4,4. Administrative and secretarial occupations,3670
+South East,4,Main language differs within partnerships,5,5. Skilled trades occupations,7175
+South East,4,Main language differs within partnerships,6,"6. Caring, leisure and other service occupations",4535
+South East,4,Main language differs within partnerships,7,7. Sales and customer service occupations,3169
+South East,4,Main language differs within partnerships,8,"8. Process, plant and machine operatives",7067
+South East,4,Main language differs within partnerships,9,9. Elementary occupations,5946
+South East,5,Any other combination of multiple main languages,-8,Does not apply,6790
+South East,5,Any other combination of multiple main languages,1,"1. Managers, directors and senior officials",6773
+South East,5,Any other combination of multiple main languages,2,2. Professional occupations,9857
+South East,5,Any other combination of multiple main languages,3,3. Associate professional and technical occupations,4613
+South East,5,Any other combination of multiple main languages,4,4. Administrative and secretarial occupations,2507
+South East,5,Any other combination of multiple main languages,5,5. Skilled trades occupations,5557
+South East,5,Any other combination of multiple main languages,6,"6. Caring, leisure and other service occupations",5376
+South East,5,Any other combination of multiple main languages,7,7. Sales and customer service occupations,3007
+South East,5,Any other combination of multiple main languages,8,"8. Process, plant and machine operatives",6342
+South East,5,Any other combination of multiple main languages,9,9. Elementary occupations,8127
+South West,-8,Does not apply,-8,Does not apply,0
+South West,-8,Does not apply,1,"1. Managers, directors and senior officials",0
+South West,-8,Does not apply,2,2. Professional occupations,0
+South West,-8,Does not apply,3,3. Associate professional and technical occupations,0
+South West,-8,Does not apply,4,4. Administrative and secretarial occupations,0
+South West,-8,Does not apply,5,5. Skilled trades occupations,0
+South West,-8,Does not apply,6,"6. Caring, leisure and other service occupations",0
+South West,-8,Does not apply,7,7. Sales and customer service occupations,0
+South West,-8,Does not apply,8,"8. Process, plant and machine operatives",0
+South West,-8,Does not apply,9,9. Elementary occupations,0
+South West,1,One-person household,-8,Does not apply,454469
+South West,1,One-person household,1,"1. Managers, directors and senior officials",33997
+South West,1,One-person household,2,2. Professional occupations,59476
+South West,1,One-person household,3,3. Associate professional and technical occupations,37510
+South West,1,One-person household,4,4. Administrative and secretarial occupations,26655
+South West,1,One-person household,5,5. Skilled trades occupations,35298
+South West,1,One-person household,6,"6. Caring, leisure and other service occupations",25860
+South West,1,One-person household,7,7. Sales and customer service occupations,19650
+South West,1,One-person household,8,"8. Process, plant and machine operatives",21066
+South West,1,One-person household,9,9. Elementary occupations,27342
+South West,2,All household members have the same main language,-8,Does not apply,484325
+South West,2,All household members have the same main language,1,"1. Managers, directors and senior officials",188622
+South West,2,All household members have the same main language,2,2. Professional occupations,230083
+South West,2,All household members have the same main language,3,3. Associate professional and technical occupations,143630
+South West,2,All household members have the same main language,4,4. Administrative and secretarial occupations,83771
+South West,2,All household members have the same main language,5,5. Skilled trades occupations,172648
+South West,2,All household members have the same main language,6,"6. Caring, leisure and other service occupations",87574
+South West,2,All household members have the same main language,7,7. Sales and customer service occupations,60152
+South West,2,All household members have the same main language,8,"8. Process, plant and machine operatives",89533
+South West,2,All household members have the same main language,9,9. Elementary occupations,90739
+South West,3,"Main language differs between generations, but not within partnerships",-8,Does not apply,3106
+South West,3,"Main language differs between generations, but not within partnerships",1,"1. Managers, directors and senior officials",1499
+South West,3,"Main language differs between generations, but not within partnerships",2,2. Professional occupations,2941
+South West,3,"Main language differs between generations, but not within partnerships",3,3. Associate professional and technical occupations,1127
+South West,3,"Main language differs between generations, but not within partnerships",4,4. Administrative and secretarial occupations,594
+South West,3,"Main language differs between generations, but not within partnerships",5,5. Skilled trades occupations,2305
+South West,3,"Main language differs between generations, but not within partnerships",6,"6. Caring, leisure and other service occupations",1863
+South West,3,"Main language differs between generations, but not within partnerships",7,7. Sales and customer service occupations,754
+South West,3,"Main language differs between generations, but not within partnerships",8,"8. Process, plant and machine operatives",2864
+South West,3,"Main language differs between generations, but not within partnerships",9,9. Elementary occupations,2886
+South West,4,Main language differs within partnerships,-8,Does not apply,3475
+South West,4,Main language differs within partnerships,1,"1. Managers, directors and senior officials",4552
+South West,4,Main language differs within partnerships,2,2. Professional occupations,7596
+South West,4,Main language differs within partnerships,3,3. Associate professional and technical occupations,3715
+South West,4,Main language differs within partnerships,4,4. Administrative and secretarial occupations,1503
+South West,4,Main language differs within partnerships,5,5. Skilled trades occupations,3521
+South West,4,Main language differs within partnerships,6,"6. Caring, leisure and other service occupations",2212
+South West,4,Main language differs within partnerships,7,7. Sales and customer service occupations,1319
+South West,4,Main language differs within partnerships,8,"8. Process, plant and machine operatives",3133
+South West,4,Main language differs within partnerships,9,9. Elementary occupations,2787
+South West,5,Any other combination of multiple main languages,-8,Does not apply,3109
+South West,5,Any other combination of multiple main languages,1,"1. Managers, directors and senior officials",1993
+South West,5,Any other combination of multiple main languages,2,2. Professional occupations,3361
+South West,5,Any other combination of multiple main languages,3,3. Associate professional and technical occupations,1724
+South West,5,Any other combination of multiple main languages,4,4. Administrative and secretarial occupations,914
+South West,5,Any other combination of multiple main languages,5,5. Skilled trades occupations,2326
+South West,5,Any other combination of multiple main languages,6,"6. Caring, leisure and other service occupations",2203
+South West,5,Any other combination of multiple main languages,7,7. Sales and customer service occupations,1216
+South West,5,Any other combination of multiple main languages,8,"8. Process, plant and machine operatives",2465
+South West,5,Any other combination of multiple main languages,9,9. Elementary occupations,3416
+Wales,-8,Does not apply,-8,Does not apply,0
+Wales,-8,Does not apply,1,"1. Managers, directors and senior officials",0
+Wales,-8,Does not apply,2,2. Professional occupations,0
+Wales,-8,Does not apply,3,3. Associate professional and technical occupations,0
+Wales,-8,Does not apply,4,4. Administrative and secretarial occupations,0
+Wales,-8,Does not apply,5,5. Skilled trades occupations,0
+Wales,-8,Does not apply,6,"6. Caring, leisure and other service occupations",0
+Wales,-8,Does not apply,7,7. Sales and customer service occupations,0
+Wales,-8,Does not apply,8,"8. Process, plant and machine operatives",0
+Wales,-8,Does not apply,9,9. Elementary occupations,0
+Wales,1,One-person household,-8,Does not apply,273201
+Wales,1,One-person household,1,"1. Managers, directors and senior officials",15560
+Wales,1,One-person household,2,2. Professional occupations,29982
+Wales,1,One-person household,3,3. Associate professional and technical occupations,19090
+Wales,1,One-person household,4,4. Administrative and secretarial occupations,14670
+Wales,1,One-person household,5,5. Skilled trades occupations,19440
+Wales,1,One-person household,6,"6. Caring, leisure and other service occupations",15271
+Wales,1,One-person household,7,7. Sales and customer service occupations,11380
+Wales,1,One-person household,8,"8. Process, plant and machine operatives",14239
+Wales,1,One-person household,9,9. Elementary occupations,16726
+Wales,2,All household members have the same main language,-8,Does not apply,291841
+Wales,2,All household members have the same main language,1,"1. Managers, directors and senior officials",78263
+Wales,2,All household members have the same main language,2,2. Professional occupations,110891
+Wales,2,All household members have the same main language,3,3. Associate professional and technical occupations,69546
+Wales,2,All household members have the same main language,4,4. Administrative and secretarial occupations,46429
+Wales,2,All household members have the same main language,5,5. Skilled trades occupations,87459
+Wales,2,All household members have the same main language,6,"6. Caring, leisure and other service occupations",56632
+Wales,2,All household members have the same main language,7,7. Sales and customer service occupations,37020
+Wales,2,All household members have the same main language,8,"8. Process, plant and machine operatives",56946
+Wales,2,All household members have the same main language,9,9. Elementary occupations,53853
+Wales,3,"Main language differs between generations, but not within partnerships",-8,Does not apply,2270
+Wales,3,"Main language differs between generations, but not within partnerships",1,"1. Managers, directors and senior officials",506
+Wales,3,"Main language differs between generations, but not within partnerships",2,2. Professional occupations,1089
+Wales,3,"Main language differs between generations, but not within partnerships",3,3. Associate professional and technical occupations,313
+Wales,3,"Main language differs between generations, but not within partnerships",4,4. Administrative and secretarial occupations,208
+Wales,3,"Main language differs between generations, but not within partnerships",5,5. Skilled trades occupations,1073
+Wales,3,"Main language differs between generations, but not within partnerships",6,"6. Caring, leisure and other service occupations",601
+Wales,3,"Main language differs between generations, but not within partnerships",7,7. Sales and customer service occupations,347
+Wales,3,"Main language differs between generations, but not within partnerships",8,"8. Process, plant and machine operatives",1061
+Wales,3,"Main language differs between generations, but not within partnerships",9,9. Elementary occupations,1050
+Wales,4,Main language differs within partnerships,-8,Does not apply,1747
+Wales,4,Main language differs within partnerships,1,"1. Managers, directors and senior officials",1333
+Wales,4,Main language differs within partnerships,2,2. Professional occupations,2380
+Wales,4,Main language differs within partnerships,3,3. Associate professional and technical occupations,1072
+Wales,4,Main language differs within partnerships,4,4. Administrative and secretarial occupations,507
+Wales,4,Main language differs within partnerships,5,5. Skilled trades occupations,1255
+Wales,4,Main language differs within partnerships,6,"6. Caring, leisure and other service occupations",690
+Wales,4,Main language differs within partnerships,7,7. Sales and customer service occupations,604
+Wales,4,Main language differs within partnerships,8,"8. Process, plant and machine operatives",1221
+Wales,4,Main language differs within partnerships,9,9. Elementary occupations,1133
+Wales,5,Any other combination of multiple main languages,-8,Does not apply,1665
+Wales,5,Any other combination of multiple main languages,1,"1. Managers, directors and senior officials",691
+Wales,5,Any other combination of multiple main languages,2,2. Professional occupations,1093
+Wales,5,Any other combination of multiple main languages,3,3. Associate professional and technical occupations,494
+Wales,5,Any other combination of multiple main languages,4,4. Administrative and secretarial occupations,321
+Wales,5,Any other combination of multiple main languages,5,5. Skilled trades occupations,768
+Wales,5,Any other combination of multiple main languages,6,"6. Caring, leisure and other service occupations",613
+Wales,5,Any other combination of multiple main languages,7,7. Sales and customer service occupations,469
+Wales,5,Any other combination of multiple main languages,8,"8. Process, plant and machine operatives",950
+Wales,5,Any other combination of multiple main languages,9,9. Elementary occupations,1147
